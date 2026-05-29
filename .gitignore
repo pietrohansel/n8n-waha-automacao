@@ -1,0 +1,8 @@
+.env
+.env.*
+*.log
+.DS_Store
+node_modules/
+n8n_data/
+waha_sessions/
+waha_media/
