@@ -1,4 +1,4 @@
-# Automacao n8n + WhatsApp + WAHA
+# Automação n8n + WhatsApp + WAHA
 
 Projeto local para estudos e automações com n8n, Docker e WAHA.
 
