@@ -1,13 +1,13 @@
 # Automacao n8n + WhatsApp + WAHA
 
-Projeto local para estudos e automacoes com n8n, Docker e WAHA.
+Projeto local para estudos e automações com n8n, Docker e WAHA.
 
-Esta aplicacao foi baseada no ambiente de automacao disponibilizado gratuitamente por Guilherme Lazarotto no YouTube.
+Esta aplicação foi baseada no ambiente de automação disponibilizado gratuitamente por Guilherme Lazarotto no YouTube.
 
 - YouTube: https://www.youtube.com/@guilherme_laz
 - Curso: https://www.curson8n.com.br
 
-## Servicos
+## Serviços
 
 - n8n: http://localhost:5678
 - WAHA: http://localhost:3000
@@ -28,9 +28,9 @@ docker compose down
 
 Usar o n8n como orquestrador de automacoes e o WAHA como ponte HTTP para integracao com WhatsApp.
 
-## Demonstracao
+## Demonstração
 
-Fluxo da automacao no n8n:
+Fluxo da automação no n8n:
 
 ![Fluxo da automacao no n8n](assets/flux_ai.png)
 
@@ -45,6 +45,6 @@ Exemplo de conversa automatizada pelo WhatsApp:
 - `docker-compose.yml`: sobe os containers do n8n e do WAHA.
 - `README.md`: instrucoes basicas do projeto.
 
-## Observacao
+## Observação
 
-Nao suba credenciais, tokens, sessoes do WhatsApp ou arquivos `.env` para o GitHub.
+Não suba credenciais, tokens, sessoes do WhatsApp ou arquivos `.env` para o GitHub.
